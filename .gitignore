@@ -1,0 +1,5 @@
+# visual studio folders
+.vscode/
+
+# python debugger folders
+__pycache__/

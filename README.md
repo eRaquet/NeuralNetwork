@@ -11,3 +11,5 @@ This repository contains a simple, python based, neural network module.  It is b
 ## Network Storage
 
 This module can save neural networks using [HDF5](https://docs.hdfgroup.org/hdf5/develop/_h5_d__u_g.html) datasets.  It also uses this data format to store the training/test data, but that could be changed for the convinience of the user.  Stored networks are stored in the [savedNetworks](.\savedNetworks) folder and can be loaded into a program, trained or used, and then saved again.  Datasets are stored similarly in the [trainingDatasets](.\trainingDatasets) folder.
+
+##
